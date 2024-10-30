@@ -1,0 +1,26 @@
+1) Criar projeto com Javascript:
+- comando no Terminal: npm init -y
+
+2) Instalar o framework de testes Jest
+- comando no Terminal: npm install --save-dev jest
+
+3) Trocar o script de testes
+Arquivo package.json > "scripts" > "test": "jest"
+
+4) Criar do arquivo a ser testado
+chamado 'calculadora.js'
+
+5) Criar o arquivo de testes unitários
+chamado 'calculadora.test.js'
+
+================
+Testes Unitários
+================
+
+Testa uma unidade de código
+
+6) Comandos para os testes
+no Terminal:
+a) npm t
+b) npm test
+c) npm run test
